@@ -23,3 +23,10 @@ Senha: 24
 Observação: Este é um exemplo simplificado e didático. Em uma aplicação real, a autenticação e autorização devem ser implementadas de forma segura, preferencialmente utilizando uma estratégia de hash para armazenamento seguro de senhas. Além disso, informações sensíveis, como senhas, não devem ser diretamente expostas no código-fonte, mas gerenciadas de forma segura, por exemplo, por meio de um sistema de autenticação e autorização robusto. Todos os 4 usuários foram gerados com o CRUD (Creat, Read, Update, Delete) na hora do cadastro
 
 
+Outra informação:
+O usuario com o ID 1 é definido como bibliotecario
+O usuario com o ID 2 é definido como o usuario com uma pendencia
+O usuario com o ID 3 é definido como um aluno comum, sem pendencias.
+E apartir do aluno com o ID 4 para cima(ID 5, ID 6, etc...), é definido como um usuario aluno.
+
+
