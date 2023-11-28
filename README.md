@@ -4,19 +4,19 @@ Projeto: Biblioteca
 Os usuários recebem um ID no momento do cadastro. Atualmente, temos 4 usuários cadastrados, cada um associado a um ID único. Quando inserem suas senhas, o sistema os reconhece.
 Então para explorar nosso projeto, use os usuarios e senhas fornecidas para uma melhor experiencia.
 
-Usuário: 1
+Usuário: 1 /
 Senha: 44
 - O usuário 1 é o bibliotecário. Ao inserir sua senha correta, ele será redirecionado para a página exclusiva do bibliotecário, onde pode realizar tarefas administrativas e gerenciar o acervo.
 
-Usuário: 2
+Usuário: 2 /
 Senha: 22
 - O usuário 2 é um aluno com uma pendência, pois ainda não devolveu um livro emprestado na biblioteca física. Após inserir a senha correta, ele receberá um alerta informando sobre a pendência e será redirecionado para a página de acesso do aluno.
 
-Usuário: 3
+Usuário: 3 /
 Senha: 11
 - O usuário 3 é um aluno sem pendências. Ao inserir a senha correta, ele terá acesso direto à página do aluno sem receber alertas.
 
-Usuário: 4
+Usuário: 4 /
 Senha: 24
 - O usuário 4 é um usuário comum, ele terá acesso à biblioteca
 
