@@ -24,9 +24,9 @@ Observação: Este é um exemplo simplificado e didático. Em uma aplicação re
 
 
 Outra informação:
-O usuario com o ID 1 é definido como bibliotecario
-O usuario com o ID 2 é definido como o usuario com uma pendencia
-O usuario com o ID 3 é definido como um aluno comum, sem pendencias.
+O usuario com o ID 1 é definido como bibliotecario. 
+O usuario com o ID 2 é definido como o usuario com uma pendencia. 
+O usuario com o ID 3 é definido como um aluno comum, sem pendencias. 
 E apartir do aluno com o ID 4 para cima(ID 5, ID 6, etc...), é definido como um usuario aluno.
 
 
